@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "1051320089920",
+    "project_id": "smartpreppro-d4adf",
+    "storage_bucket": "smartpreppro-d4adf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051320089920:android:88b89ff75dae3ff4fa4ea5",
+        "android_client_info": {
+          "package_name": "com.example.smart_prep_pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051320089920-0fggqqfcff3i62f60ccamkmmke8e0551.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smart_prep_pro",
+            "certificate_hash": "e2494e8477b5520adf89aab3a19bf722f6f67848"
+          }
+        },
+        {
+          "client_id": "1051320089920-pdjtaqbe06lvr4edmo5n5kpn11p6d90o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smart_prep_pro",
+            "certificate_hash": "9e3661b3f89ad38698051b2a235128646676d587"
+          }
+        },
+        {
+          "client_id": "1051320089920-on7lnolup30k5t6rsi8lg3ijgs1otfuf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdwU2WeWxBMAH9j7C4g7bBld-aaPhuj8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051320089920-on7lnolup30k5t6rsi8lg3ijgs1otfuf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051320089920:android:540eb33440957625fa4ea5",
+        "android_client_info": {
+          "package_name": "com.vishnu.codelogic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051320089920-6kv2269am6aoa97jd9u9007lhqjqcfnr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vishnu.codelogic",
+            "certificate_hash": "9e3661b3f89ad38698051b2a235128646676d587"
+          }
+        },
+        {
+          "client_id": "1051320089920-on7lnolup30k5t6rsi8lg3ijgs1otfuf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdwU2WeWxBMAH9j7C4g7bBld-aaPhuj8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051320089920-on7lnolup30k5t6rsi8lg3ijgs1otfuf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051320089920:android:91ca0cbe581485fbfa4ea5",
+        "android_client_info": {
+          "package_name": "com.vishnu.smartpreppro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051320089920-a9oai4v4sk190v47ap2ljss87csl0cf3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vishnu.smartpreppro",
+            "certificate_hash": "9e3661b3f89ad38698051b2a235128646676d587"
+          }
+        },
+        {
+          "client_id": "1051320089920-on7lnolup30k5t6rsi8lg3ijgs1otfuf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdwU2WeWxBMAH9j7C4g7bBld-aaPhuj8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051320089920-on7lnolup30k5t6rsi8lg3ijgs1otfuf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9513338936916425~5156924415"
+    }
+  ],
+  "configuration_version": "1"
+}
