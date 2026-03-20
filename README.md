@@ -1,6 +1,6 @@
 # 🧠 Code Logic – DSA Practice App 🚀
 
-Code Logic is a powerful mobile application designed to help students and developers improve their Data Structures & Algorithms (DSA) skills with structured learning, practice, and real-time evaluation.
+Code Logic is a powerful mobile application designed to help students and developers improve their Data Structures & Algorithms (DSA) skills through structured learning, real-time practice, and performance tracking.
 
 📱 **Available on Play Store:**
 https://play.google.com/store/apps/details?id=com.vishnu.codelogic
@@ -10,12 +10,12 @@ https://play.google.com/store/apps/details?id=com.vishnu.codelogic
 ## ✨ Features
 
 * 📚 **DSA Practice Questions** – Solve curated problems
-* 🏢 **Company-wise Questions** – Prepare for top companies
+* 🏢 **Company-wise Questions** – Prepare for top tech companies
 * 🛣️ **Structured Roadmap** – Step-by-step learning path
 * 📅 **30 Days Challenge** – Daily guided practice plan
 * 🧪 **Daily Mock Tests** – Improve speed & accuracy
 * 🏆 **Leaderboard System** – Compete with other users
-* 🎥 **YouTube Learning Integration** – Best coding tutorials
+* 🎥 **YouTube Learning Integration** – Curated coding tutorials
 * ⚡ Clean and user-friendly UI
 
 ---
@@ -32,33 +32,44 @@ https://play.google.com/store/apps/details?id=com.vishnu.codelogic
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screen1.jpeg" width="250"/>
-  <img src="screen2.jpeg" width="250"/>
-  <img src="screen3.jpeg" width="250"/>
+  <img src="screen10.jpeg" width="250"/>
+  <img src="screen11.jpeg" width="250"/>
+  <img src="screen12.jpeg" width="250"/>
 </p>
 
 <p align="center">
-  <img src="screen4.jpeg" width="250"/>
-  <img src="screen5.jpeg" width="250"/>
-  <img src="screen6.jpeg" width="250"/>
+  <img src="screen13.jpeg" width="250"/>
+  <img src="screen14.jpeg" width="250"/>
+  <img src="screen15.jpeg" width="250"/>
+</p>
+
+<p align="center">
+  <img src="screen16.jpeg" width="250"/>
+  <img src="screen17.jpeg" width="250"/>
+  <img src="screen18.jpeg" width="250"/>
+</p>
+
+<p align="center">
+  <img src="screen19.jpeg" width="250"/>
+  <img src="screen20.jpeg" width="250"/>
 </p>
 
 ---
 
 ## 🚀 Project Highlights
 
-* 📱 Live app published on Play Store
-* 🎯 Focused on real-world interview preparation
+* 📱 Live app published on Google Play Store
+* 🎯 Focused on real-world DSA & interview preparation
 * 📊 Combines learning + practice + evaluation
-* 👨‍💻 Built for students aiming for top tech companies
+* 👨‍💻 Built for students targeting top tech companies
 
 ---
 
 ## 🔮 Future Improvements
 
-* 📈 More advanced problem sets
-* 🤖 AI-based recommendations
-* 📊 Performance analytics dashboard
+* 📈 More advanced DSA problem sets
+* 🤖 AI-based personalized recommendations
+* 📊 Detailed performance analytics dashboard
 
 ---
 
