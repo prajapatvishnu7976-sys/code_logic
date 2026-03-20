@@ -1,16 +1,72 @@
-# smart_prep_pro
+# 🧠 Code Logic – DSA Practice App 🚀
 
-A new Flutter project.
+Code Logic is a powerful mobile application designed to help students and developers improve their Data Structures & Algorithms (DSA) skills with structured learning, practice, and real-time evaluation.
 
-## Getting Started
+📱 **Available on Play Store:**
+https://play.google.com/store/apps/details?id=com.vishnu.codelogic
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* 📚 **DSA Practice Questions** – Solve curated problems
+* 🏢 **Company-wise Questions** – Prepare for top companies
+* 🛣️ **Structured Roadmap** – Step-by-step learning path
+* 📅 **30 Days Challenge** – Daily guided practice plan
+* 🧪 **Daily Mock Tests** – Improve speed & accuracy
+* 🏆 **Leaderboard System** – Compete with other users
+* 🎥 **YouTube Learning Integration** – Best coding tutorials
+* ⚡ Clean and user-friendly UI
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Tech Stack
+
+* **Frontend:** Flutter
+* **Backend:** Firebase
+* **Database:** Firestore
+* **Authentication:** Firebase Auth
+
+---
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screen1.jpeg" width="250"/>
+  <img src="screen2.jpeg" width="250"/>
+  <img src="screen3.jpeg" width="250"/>
+</p>
+
+<p align="center">
+  <img src="screen4.jpeg" width="250"/>
+  <img src="screen5.jpeg" width="250"/>
+  <img src="screen6.jpeg" width="250"/>
+</p>
+
+---
+
+## 🚀 Project Highlights
+
+* 📱 Live app published on Play Store
+* 🎯 Focused on real-world interview preparation
+* 📊 Combines learning + practice + evaluation
+* 👨‍💻 Built for students aiming for top tech companies
+
+---
+
+## 🔮 Future Improvements
+
+* 📈 More advanced problem sets
+* 🤖 AI-based recommendations
+* 📊 Performance analytics dashboard
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/vishnu-kumar-545037327/
+* 🌐 Portfolio: https://prajapatvishnu7976-sys.github.io/My-portfolio/
+
+---
+
+⭐ **"Practice. Learn. Improve. Repeat."**
